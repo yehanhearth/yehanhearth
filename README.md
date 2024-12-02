@@ -25,6 +25,10 @@
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yehan-herath-833215267/)
+[![Connect on Youtube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@SyntaxSavvy1)
+[![Connect on Tiktok](https://skillicons.dev/icons?i=tiktok)](https://www.tiktok.com/@yehan_herath_?_t=8rswLsMbwIM&_r=1)
+
+
 
 
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanhearth&theme=github_dark)
