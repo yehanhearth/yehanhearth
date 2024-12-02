@@ -6,7 +6,7 @@
 
 🚀 My goal is to develop innovative, user-centric solutions that truly make a difference. Let's build something great together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-yehanherath28&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-yehanhearth&color=blue)
 
 ### Skills
 - HTML, CSS, JavaScript
@@ -28,8 +28,6 @@
 
 
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanhearth&theme=github_dark)
-
-![Yehan's GitHub stats]([https://github.com/users/yehanhearth/achievements/quickdraw](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanherth&theme=github_dark))
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yehanhearth&theme=github_dark&exclude=html,css,tailwind)
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yehanhearth&theme=github_dark)
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yehanhearth&theme=github_dark&utcOffset=+05.30)
