@@ -27,9 +27,9 @@
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yehan-herath-833215267/)
 
 
-![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanherath&theme=github_dark)
+![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanhearth&theme=github_dark)
 
-![Yehan's GitHub stats]([https://github.com/users/yehanherth/achievements/quickdraw](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanherath&theme=github_dark))
+![Yehan's GitHub stats]([https://github.com/users/yehanhearth/achievements/quickdraw](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanherth&theme=github_dark))
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yehanhearth&theme=github_dark&exclude=html,css,tailwind)
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yehanhearth&theme=github_dark)
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yehanhearth&theme=github_dark&utcOffset=+05.30)
