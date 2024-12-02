@@ -25,7 +25,7 @@
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yehan-herath-833215267/)
-[![Connect on Mail](https://skillicons.dev/icons?i=gmail)](https://www.youtube.com/@SyntaxSavvy1)
+
 
 
 
