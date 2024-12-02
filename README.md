@@ -30,7 +30,7 @@
 
 ![Yehan's GitHub stats]([https://github.com/users/yehanhearth/achievements/quickdraw](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehanherath&theme=github_dark))
 ![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yehanhearth&theme=github_dark&exclude=html,css,tailwind)
-![Abdul's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yehanherath&theme=github_dark)
-![Abdul's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yehanherath&theme=github_dark&utcOffset=+05.30)
+![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yehanhearth&theme=github_dark)
+![Yehan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yehanhearth&theme=github_dark&utcOffset=+05.30)
 
 
