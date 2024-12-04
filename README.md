@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,mysql,php,tailwind,arduino,vscode)](https://skillicons.dev)
 
 ### Featured Projects
-- [MegaMart](https://github.com/yehanherath/Megamart): This project is a simple, responsive e-commerce website homepage named Mega Mart. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online retail store. The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
+BOOKSHOP (https://github.com/yehanhearth/KMJ) :-This project is a simple, responsive e-commerce website homepage named KMJ. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online store.  The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yehan-herath-833215267/)
